@@ -1,0 +1,7 @@
+#Build outputs
+Debug/
+Release/
+
+#Eclipse/ STM32Cube
+.settings/
+*.launch
